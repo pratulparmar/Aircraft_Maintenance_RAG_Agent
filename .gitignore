@@ -1,0 +1,65 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+
+# Environment variables - CRITICAL
+.env
+.env.local
+.env.*.local
+
+# Database files - ALL VARIATIONS
+chroma_db/
+chroma*/`nchroma_db_*/
+*.sqlite3
+*.db
+*.bin
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+temp*.pdf
+*.tmp
+tree.txt
+current_tree.txt
+
+# Test files (optional)
+test_*.py
+
+# Logs
+*.log
+logs/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
