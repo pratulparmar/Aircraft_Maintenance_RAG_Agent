@@ -276,8 +276,8 @@ MIT License - see LICENSE file for details
 
 For questions or collaboration opportunities, reach out via:
 - Email: pratulparmar8@gmail.com
-- LinkedIn: [Your Profile](link)
-- Github: [your-portfolio.com](link)
+- LinkedIn: [Pratul Parmar](www.linkedin.com/in/pratul-parmar8)
+- Github: [Pratul Parmar](https://github.com/pratulparmar)
 
 ---
 
