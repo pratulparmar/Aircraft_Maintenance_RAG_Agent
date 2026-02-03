@@ -11,55 +11,49 @@ __pycache__/
 .Python
 *.pyc
 
-# Environment variables - CRITICAL
+# Environment variables
 .env
 .env.local
 .env.*.local
 
-# Database files - ALL VARIATIONS
+# Database files
 chroma_db/
-chroma*/`nchroma_db_*/
+chroma_db_groq/
+chroma_db_agent/
+chroma_db_hybrid/
+chroma_db_citations/
+chroma_db_tables/
+chroma_streamlit/
 *.sqlite3
 *.db
 *.bin
 
-# IDE settings
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Temporary files
+# Temp files
 temp*.pdf
 *.tmp
 tree.txt
 current_tree.txt
 
-# Test files (optional)
+# Test files
 test_*.py
 
 # Logs
 *.log
 logs/
 
-# Build files
+# Build
 build/
 dist/
 *.egg-info/
-
-# Coverage reports
-htmlcov/
-.coverage
-.coverage.*
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# pyenv
-.python-version
