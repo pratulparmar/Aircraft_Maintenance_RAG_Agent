@@ -10,9 +10,6 @@ AI-powered assistant for aircraft maintenance documentation with agentic capabil
 </video>
 
 *Click play to see the system in action*
-[Video Demo](<video src="https://raw.githubusercontent.com/pratulparmar/Aircraft_Maintenance_RAG_Agent/main/screenshots/demo_video.mp4" controls autoplay muted loop width="100%"></video>
-)
-
 ![Demo Screenshot]
 ### Screenshots
 
