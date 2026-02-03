@@ -2,9 +2,40 @@
 
 AI-powered assistant for aircraft maintenance documentation with agentic capabilities for checklist generation, safety compliance verification, and engineering workflow integration.
 
-[Live Demo](YOUR_DEPLOYED_LINK) | [Video Demo](YOUR_VIDEO_LINK)
+[Video Demo](<video src="https://raw.githubusercontent.com/pratulparmar/Aircraft_Maintenance_RAG_Agent/main/screenshots/demo_video.mp4" controls autoplay muted loop width="100%"></video>
+)
 
-![Demo Screenshot](screenshots/demo.png)
+![Demo Screenshot]
+### Screenshots
+
+#### System Interface
+![Homepage Interface](screenshots/1.png)
+
+#### PDF Upload and Processing
+![Upload Process](screenshots/2.png)
+
+#### Query Examples
+![Query Result 1](screenshots/3.png)
+
+![Query Result 2](screenshots/4.png)
+
+#### Hybrid Search in Action
+![Search Results](screenshots/5.png)
+
+#### Checklist Generation
+![Checklist Output](screenshots/6.png)
+
+#### Unit Conversion Tool
+![Unit Converter](screenshots/7.png)
+
+#### Source Citations
+![Citations and Confidence Scores](screenshots/8.png)
+
+#### Performance Metrics
+![Response Time Metrics](screenshots/9.png)
+
+#### Advanced Features
+![Advanced Options](screenshots/10.png)
 
 ## Problem Statement
 
