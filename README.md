@@ -12,11 +12,10 @@ AI-powered assistant for aircraft maintenance documentation with agentic capabil
 ![Homepage Interface](screenshots/1.png)
 
 #### PDF Upload and Processing
-![Upload Process](screenshots/2.png)
+![Uploading](screenshots/2.png)
+![Processing](screenshots/3.png)
 
 #### Query Examples
-![Query Result 1](screenshots/3.png)
-
 ![Query Result 2](screenshots/4.png)
 
 #### Hybrid Search in Action
