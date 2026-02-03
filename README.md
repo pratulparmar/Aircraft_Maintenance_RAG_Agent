@@ -14,27 +14,18 @@ AI-powered assistant for aircraft maintenance documentation with agentic capabil
 #### PDF Upload and Processing
 ![Uploading](screenshots/2.png)
 ![Processing](screenshots/3.png)
+![Processing finished](screenshots/4.png)
 
 #### Query Examples
-![Query Result 2](screenshots/4.png)
+![Hybrid_Search](screenshots/5.png)
+![Query_sample](screenshots/6.png)
 
-#### Hybrid Search in Action
-![Search Results](screenshots/5.png)
+#### Answer Generation
+![Answers](screenshots/7.png)
+(screenshots/8.png)
+(screenshots/9.png)
+(screenshots/10.png)
 
-#### Checklist Generation
-![Checklist Output](screenshots/6.png)
-
-#### Unit Conversion Tool
-![Unit Converter](screenshots/7.png)
-
-#### Source Citations
-![Citations and Confidence Scores](screenshots/8.png)
-
-#### Performance Metrics
-![Response Time Metrics](screenshots/9.png)
-
-#### Advanced Features
-![Advanced Options](screenshots/10.png)
 
 ## Problem Statement
 
