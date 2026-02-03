@@ -21,10 +21,10 @@ AI-powered assistant for aircraft maintenance documentation with agentic capabil
 ![Query_sample](screenshots/6.png)
 
 #### Answer Generation
-![Answers](screenshots/7.png)
-(screenshots/8.png)
-(screenshots/9.png)
-(screenshots/10.png)
+![Answers-Part1](screenshots/7.png)
+![Answers-Part2](screenshots/8.png)
+![Answers-Part3](screenshots/9.png)
+![Answers-Part4](screenshots/10.png)
 
 
 ## Problem Statement
