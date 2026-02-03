@@ -1,7 +1,15 @@
 # A360 Technical Manual RAG Agent
 
 AI-powered assistant for aircraft maintenance documentation with agentic capabilities for checklist generation, safety compliance verification, and engineering workflow integration.
+## Demo
 
+### Video Walkthrough
+
+<video src="https://raw.githubusercontent.com/pratulparmar/Aircraft_Maintenance_RAG_Agent/main/screenshots/demo_video.mp4" controls muted loop width="100%" style="max-width: 900px;">
+  Your browser does not support the video tag.
+</video>
+
+*Click play to see the system in action*
 [Video Demo](<video src="https://raw.githubusercontent.com/pratulparmar/Aircraft_Maintenance_RAG_Agent/main/screenshots/demo_video.mp4" controls autoplay muted loop width="100%"></video>
 )
 
