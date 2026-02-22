@@ -1,4 +1,4 @@
-# A360 Technical Manual RAG Agent
+# A380 Technical Manual RAG Agent
 
 AI-powered assistant for aircraft maintenance documentation with agentic capabilities for checklist generation, safety compliance verification, and engineering workflow integration.
 ## Demo
