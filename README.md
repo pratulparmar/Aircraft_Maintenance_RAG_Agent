@@ -1,10 +1,37 @@
 # A380 Technical Manual RAG Agent
 
 AI-powered assistant for aircraft maintenance documentation with agentic capabilities for checklist generation, safety compliance verification, and engineering workflow integration.
+## Demo
 
-[Live Demo](YOUR_DEPLOYED_LINK) | [Video Demo](YOUR_VIDEO_LINK)
+### 📹 Video Walkthrough
 
-![Demo Screenshot](screenshots/demo.png)
+[![Watch Demo Video](https://img.shields.io/badge/▶️_Watch_Demo_Video-Click_Here-red?style=for-the-badge)](https://github.com/pratulparmar/Aircraft_Maintenance_RAG_Agent/blob/main/screenshots/demo_video.mp4)
+
+*Click the badge above to watch the full demonstration (3 minutes)*
+
+---
+
+
+### Screenshots
+
+#### System Interface
+![Homepage Interface](screenshots/1.png)
+
+#### PDF Upload and Processing
+![Uploading](screenshots/2.png)
+![Processing](screenshots/3.png)
+![Processing finished](screenshots/4.png)
+
+#### Query Examples
+![Hybrid_Search](screenshots/5.png)
+![Query_sample](screenshots/6.png)
+
+#### Answer Generation
+![Answers-Part1](screenshots/7.png)
+![Answers-Part2](screenshots/8.png)
+![Answers-Part3](screenshots/9.png)
+![Answers-Part4](screenshots/10.png)
+
 
 ## Problem Statement
 
@@ -249,8 +276,8 @@ MIT License - see LICENSE file for details
 
 For questions or collaboration opportunities, reach out via:
 - Email: pratulparmar8@gmail.com
-- LinkedIn: [Your Profile](link)
-- Github: [your-portfolio.com](link)
+- LinkedIn: [Pratul Parmar](https://www.linkedin.com/in/pratul-parmar-a5002417a/)
+- Github: [Pratul Parmar](https://github.com/pratulparmar)
 
 ---
 
