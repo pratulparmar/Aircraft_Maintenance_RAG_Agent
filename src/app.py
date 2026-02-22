@@ -1,4 +1,4 @@
-# app.py - Streamlit UI for A360 Technical Manual RAG Agent
+# app.py - Streamlit UI for A380 Technical Manual RAG Agent
 import os
 import streamlit as st
 import time
@@ -20,7 +20,7 @@ from dotenv import load_dotenv
 # ============================================
 
 st.set_page_config(
-    page_title="A360 RAG Agent",
+    page_title="A380 RAG Agent",
     page_icon="✈️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -401,7 +401,7 @@ Provide a clear, concise answer based on the context."""
 def main():
     
     # Header
-    st.markdown('<div class="main-header">✈️ A360 Technical Manual RAG Agent</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">✈️ A380 Technical Manual RAG Agent</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">AI-Powered Aircraft Maintenance Assistant with Agentic Capabilities</div>', unsafe_allow_html=True)
     
     # Sidebar

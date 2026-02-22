@@ -2,7 +2,7 @@
 
 ## Overview
 
-The A360 RAG Agent implements a hybrid retrieval pipeline optimized for technical documentation with agentic tool integration.
+The A380 RAG Agent implements a hybrid retrieval pipeline optimized for technical documentation with agentic tool integration.
 
 ## High-Level Architecture
 ```
